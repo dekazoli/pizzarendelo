@@ -1,0 +1,3 @@
+import pizzarendelo
+
+pizzarendelo.rendeles()
